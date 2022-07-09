@@ -2,6 +2,8 @@
 
 Custom Shuffleboard Widget Lab
 ==============================
+The repository for this codelab is located at https://github.com/SteelCityRoboticsAlliance/CustomShuffleboard
+
 We frequently use Shuffleboard to debug and verify our code, especially in the simulation environment. The text boxes
 and boolean indicators can help us out a lot, but sometimes it is better to have a more complicated, customized view to
 look at.

@@ -16,6 +16,8 @@ This project also contains unit tests. Unit tests run automatically when we buil
 test the code and make sure that certain expectations are met. In order to "pass" this codelab,
 all of the unit tests should pass
 
+The codelab is located at https://github.com/SteelCityRoboticsAlliance/GitflowCodelab. Check the Gitflow codelab for instructions on how to clone the repository in your preferred IDE.
+
 Robot Overview
 --------------
 We will be implementing code for a very simple robot.
@@ -24,16 +26,14 @@ The robot has the following mechanisms (think: Subsystems):
 - A Chassis, with 4 speed controllers (2 each side), an encoder for each side, and a gyroscope
 - A Elevator, with one speed controller, an encoder, and limit switches on the top and bottom
 - A Punch, which uses a single action solenoid
-- A Spinning Wheel, with one speed controller and an encoder
 
 Our goal is to give the robot these abilities (think: Commands)
 - Drive the chassis with the drivers Xbox controller, using Halo drive (aka split arcade, aka left thumb throttle, right thumb rotation)
 - Drive the elevator with a joystick on the operator XBox controller
 - Have buttons which allow the elevator to go to 3 preset heights
 - Have a button to move the punch piston
-- Have a button to spin the wheel at a preset RPM
 - Autonomously drive the robot straight for N seconds
-- Autonomously drive the robot straight for N feet
+- Autonomously drive the robot straight for N meters
 - Autonomously turn the robot to N degrees
 
 Implement the Punch Subsystem
