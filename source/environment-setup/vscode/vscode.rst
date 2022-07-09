@@ -10,18 +10,12 @@ WPI's distribution of VS Code provides built in tools specific for working with 
 Installing VSCode
 -----------------
 
-Follow the instructions provide by WPI.
+Follow the instructions_ provide by WPI.
 
 Recommendations for options:
-- Try to install for "All Users" first. If you are on a locked down computer (such as a chromebook or school laptop), you may need to install for "Just This User"
-- "Instal Everything" if you intend to use VS Code as your IDE. If you want to use Intellij as your IDE, you can get away with only doing a "Tools Only" install.
 
+* Try to install for "All Users" first. If you are on a locked down computer (such as a chromebook or school laptop), you may need to install for "Just This User"
+* "Install Everything" if you intend to use VS Code as your IDE. If you want to use Intellij as your IDE, you can get away with only doing a "Tools Only" install.
 
-Navigating VSCode
------------------
-When you open vscode, you will see a screen that looks like this.
-
-|vscode-markup|
-
-.. _wpilib_installation_docs
+.. _instructions: https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
 

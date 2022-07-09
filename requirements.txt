@@ -1,3 +1,5 @@
 sphinx-markdown-tables==0.0.15
-recommonmark==0.7.1
+sphinx-tabs==3.2.0
 sphinx-rtd-theme==1.0.0
+
+recommonmark==0.7.1

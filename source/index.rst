@@ -36,6 +36,18 @@ Follow the steps in *Environment Setup* to install all of the required tools, th
 
    code-labs/code-labs
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Git Overview:
+
+   git-overview/git
+
+.. toctree::
+   :maxdepth: 2
+   :caption: SCRA Presentations
+
+   presentations/presentations
+
 
 Indices and tables
 ==================
